@@ -14,11 +14,9 @@ This project has the following dependencies:
 
 # Results
 
-|  |   | 
+|  <img src="https://github.com/karta020500/Road-Network-Extraction/blob/master/SVM_Classification/Results/classification.png" width = "500" height = "330" /> | <img src="https://github.com/karta020500/Road-Network-Extraction/blob/master/Radon_line_tracing/Results/final.jpg" width = "500" height = "330" />  | 
 |:-------:|:-----:|
-|||
-| |  |
-|||
+|Classification|Road network completeness|
 
 # Conclusions
 1. This study presents an effective road extraction technique from high-resolution imagery in urban areas.
